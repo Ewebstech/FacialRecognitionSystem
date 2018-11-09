@@ -1,0 +1,1 @@
+# Python developed remote-based software system designed by combining three (3) diﬀerent Haar feature-based cascade classiﬁers and using the Local Binary Patterns Histograms (LBPH) Algorithm in OpenCV for real-time face detection and recognition 
